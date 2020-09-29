@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="status_contador">Contador em </string>
+</resources>
