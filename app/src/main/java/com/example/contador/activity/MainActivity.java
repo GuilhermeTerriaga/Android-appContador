@@ -1,4 +1,4 @@
-package com.example.contador;
+package com.example.contador.activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -8,6 +8,8 @@ import android.os.PersistableBundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.contador.R;
 
 public class MainActivity extends AppCompatActivity {
 
